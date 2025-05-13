@@ -1,0 +1,12 @@
+body {
+  background-color: #f4f8fb;
+}
+
+.logo-img {
+  width: 200px;
+  height: auto;
+}
+
+h1, p {
+  color: #343a40;
+}
